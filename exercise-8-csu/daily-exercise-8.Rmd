@@ -1,0 +1,19 @@
+---
+title: "daily-exercise-8"
+author: "Eleanor Lindsey"
+date: "2025-02-21"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+#The purpose of this assignment is to use the Covid-19 data from the previous daily exercise to create and analyze data frames.
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
